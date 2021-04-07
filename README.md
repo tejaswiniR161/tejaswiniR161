@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Flutter and Dart :D
 - 💞️ I’m looking to collaborate with interesting open source projects
-- 📫 How to reach me at tejaswini.dev
+- 📫 Reach me at tejaswini.dev
 
 <!---
 tejaswiniR161/tejaswiniR161 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
