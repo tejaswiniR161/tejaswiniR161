@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tejaswini Rajkumar
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Flutter and Dart 😁
+- 🌱 I’m currently working on react native projects 😁
 - 💞️ I’m looking to collaborate with interesting open source projects
 - 📫 Reach me at tejaswini.dev
 
